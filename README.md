@@ -1,16 +1,17 @@
-## Hi there 👋
+# Bovas Chinnathambi
 
-<!--
-**bovas/bovas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Principal Software Engineer | AI Engineering & Systems Architecture**
 
-Here are some ideas to get you started:
+I build and explore reliable, secure, and scalable software systems, with a growing focus on production AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work and experiments span:
+
+- **AI Engineering:** RAG, agentic workflows, retrieval strategies, and evaluation
+- **AI Systems Architecture:** orchestration, system boundaries, reliability, and observability
+- **Enterprise AI Security:** identity, authorization, and access-aware retrieval
+- **Cloud-Native Engineering:** distributed systems, APIs, AWS, and production operations
+- **Applied AI Experiments:** computer vision and multimodal knowledge understanding
+
+This portfolio documents selected implementations, architecture decisions, experiments, and lessons learned.
+
+**Focus:** Moving beyond AI prototypes toward systems that can be evaluated, secured, and operated reliably.
